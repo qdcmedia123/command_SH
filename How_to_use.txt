@@ -1,0 +1,2 @@
+// Simply type down this
+. scriptname.sh

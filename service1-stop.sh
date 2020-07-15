@@ -1,0 +1,1 @@
+sudo service elasticsearch stop && sudo service kibana stop && sudo service logstash stop && sudo service rabbitmq-server stop
